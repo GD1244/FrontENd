@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+.next
+.vercel
+
+# system
+.DS_Store
+*.log
+.env
+.vscode
+*.zip
+
+# build
+out
+dist
